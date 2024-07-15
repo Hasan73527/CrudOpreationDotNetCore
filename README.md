@@ -10,3 +10,5 @@
 # Go to the tool then get packedge manager console
 # Add-migration
 
+# if all complete build  and then run
+
